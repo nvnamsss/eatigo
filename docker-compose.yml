@@ -7,7 +7,7 @@ services:
     ports:
     - 8080:8080
     environment:
-    - GOOGLE_PLACE_KEY=AIzaSyDHatqTf_kD-OMZDcYoT7ExYa7fYb_4ilA
+    - GOOGLE_PLACE_KEY=${GOOGLE_PLACE_KEY}
     - REDIS_HOST=eatigo_redis_1
     - REDIS_PORT=6379
     - REDIS_DB=0

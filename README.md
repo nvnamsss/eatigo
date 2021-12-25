@@ -6,6 +6,11 @@ Build docker image
 sh build.sh
 ```
 
+Put API Key in `.env` file
+```
+export GOOGLE_PLACE_KEY=YOUR_API_KEY
+```
+
 Running up:
 ```
 docker-compose up

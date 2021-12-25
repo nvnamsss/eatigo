@@ -50,6 +50,8 @@ func main() {
 	}
 	redisClient.AddHook(apmgoredisv8.NewHook())
 
+	logger.Infof("GCP KEY: %v", configs.Config.GooglePlace.Key)
+
 	var r = gin.Default()
 	corsConfig := cors.New(cors.Config{
 		AllowMethods:     []string{"GET", "POST", "PUT", "PATCH", "DELETE", "HEAD"},

@@ -1,0 +1,23 @@
+version: '2.2'
+services:
+  server:
+    image: eatigo:latest
+    depends_on:
+      - redis
+    ports:
+    - 8080:8080
+    environment:
+    - GOOGLE_PLACE_KEY=AIzaSyDHatqTf_kD-OMZDcYoT7ExYa7fYb_4ilA
+    - REDIS_HOST=eatigo_redis_1
+    - REDIS_PORT=6379
+    - REDIS_DB=0
+    networks:
+    - eatigo-net
+  redis:
+    image: redis:latest
+    environment:
+      - ALLOW_EMPTY_PASSWORD=yes
+    networks:
+    - eatigo-net
+networks:
+  eatigo-net:

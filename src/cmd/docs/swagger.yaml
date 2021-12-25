@@ -1,0 +1,94 @@
+basePath: /eatigo/v1
+definitions:
+  dtos.FindRestaurantsData:
+    properties:
+      address:
+        type: string
+      name:
+        type: string
+    type: object
+  dtos.FindRestaurantsRequest:
+    properties:
+      cursor:
+        type: string
+      place:
+        type: string
+    required:
+    - place
+    type: object
+  dtos.FindRestaurantsResponse:
+    properties:
+      data:
+        items:
+          $ref: '#/definitions/dtos.FindRestaurantsData'
+        type: array
+      meta:
+        $ref: '#/definitions/dtos.Meta'
+        type: object
+    type: object
+  dtos.Meta:
+    properties:
+      code:
+        type: integer
+      cursor:
+        type: string
+      message:
+        type: string
+    type: object
+  errors.AppError:
+    properties:
+      meta:
+        $ref: '#/definitions/errors.ErrorMeta'
+        type: object
+    type: object
+  errors.ErrorMeta:
+    properties:
+      code:
+        type: integer
+      message:
+        type: string
+    type: object
+info:
+  contact:
+    email: nvnam.c@gmail.com
+    name: Nam Nguyen
+  description: Eatigo API documentation
+  license:
+    name: Apache 2.0
+    url: http://www.apache.org/licenses/LICENSE-2.0.html
+  termsOfService: http://swagger.io/terms/
+  title: Eatigo
+  version: "1.0"
+paths:
+  /restaurants/:
+    get:
+      consumes:
+      - application/json
+      description: Find restaurants around a specific place
+      parameters:
+      - in: query
+        name: cursor
+        type: string
+      - in: query
+        name: place
+        required: true
+        type: string
+      produces:
+      - application/json
+      responses:
+        "200":
+          description: OK
+          schema:
+            $ref: '#/definitions/dtos.FindRestaurantsResponse'
+        "401":
+          description: Unauthorized
+          schema:
+            $ref: '#/definitions/errors.AppError'
+        "500":
+          description: Internal Server Error
+          schema:
+            $ref: '#/definitions/errors.AppError'
+      summary: Find restaurants around a specific place
+      tags:
+      - Restaurants
+swagger: "2.0"

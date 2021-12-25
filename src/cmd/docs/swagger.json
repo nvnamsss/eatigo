@@ -1,0 +1,144 @@
+{
+    "swagger": "2.0",
+    "info": {
+        "description": "Eatigo API documentation",
+        "title": "Eatigo",
+        "termsOfService": "http://swagger.io/terms/",
+        "contact": {
+            "name": "Nam Nguyen",
+            "email": "nvnam.c@gmail.com"
+        },
+        "license": {
+            "name": "Apache 2.0",
+            "url": "http://www.apache.org/licenses/LICENSE-2.0.html"
+        },
+        "version": "1.0"
+    },
+    "basePath": "/eatigo/v1",
+    "paths": {
+        "/restaurants/": {
+            "get": {
+                "description": "Find restaurants around a specific place",
+                "consumes": [
+                    "application/json"
+                ],
+                "produces": [
+                    "application/json"
+                ],
+                "tags": [
+                    "Restaurants"
+                ],
+                "summary": "Find restaurants around a specific place",
+                "parameters": [
+                    {
+                        "type": "string",
+                        "name": "cursor",
+                        "in": "query"
+                    },
+                    {
+                        "type": "string",
+                        "name": "place",
+                        "in": "query",
+                        "required": true
+                    }
+                ],
+                "responses": {
+                    "200": {
+                        "description": "OK",
+                        "schema": {
+                            "$ref": "#/definitions/dtos.FindRestaurantsResponse"
+                        }
+                    },
+                    "401": {
+                        "description": "Unauthorized",
+                        "schema": {
+                            "$ref": "#/definitions/errors.AppError"
+                        }
+                    },
+                    "500": {
+                        "description": "Internal Server Error",
+                        "schema": {
+                            "$ref": "#/definitions/errors.AppError"
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "definitions": {
+        "dtos.FindRestaurantsData": {
+            "type": "object",
+            "properties": {
+                "address": {
+                    "type": "string"
+                },
+                "name": {
+                    "type": "string"
+                }
+            }
+        },
+        "dtos.FindRestaurantsRequest": {
+            "type": "object",
+            "required": [
+                "place"
+            ],
+            "properties": {
+                "cursor": {
+                    "type": "string"
+                },
+                "place": {
+                    "type": "string"
+                }
+            }
+        },
+        "dtos.FindRestaurantsResponse": {
+            "type": "object",
+            "properties": {
+                "data": {
+                    "type": "array",
+                    "items": {
+                        "$ref": "#/definitions/dtos.FindRestaurantsData"
+                    }
+                },
+                "meta": {
+                    "type": "object",
+                    "$ref": "#/definitions/dtos.Meta"
+                }
+            }
+        },
+        "dtos.Meta": {
+            "type": "object",
+            "properties": {
+                "code": {
+                    "type": "integer"
+                },
+                "cursor": {
+                    "type": "string"
+                },
+                "message": {
+                    "type": "string"
+                }
+            }
+        },
+        "errors.AppError": {
+            "type": "object",
+            "properties": {
+                "meta": {
+                    "type": "object",
+                    "$ref": "#/definitions/errors.ErrorMeta"
+                }
+            }
+        },
+        "errors.ErrorMeta": {
+            "type": "object",
+            "properties": {
+                "code": {
+                    "type": "integer"
+                },
+                "message": {
+                    "type": "string"
+                }
+            }
+        }
+    }
+}

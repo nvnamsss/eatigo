@@ -1,0 +1,1037 @@
+{
+    "html_attributions": [],
+    "next_page_token": "Aap_uEDuXLbbKxzO2IRpuUkmRuiUjDeoFjpzlXe1TK8SsVN1DkYtscp_Inf3BRRo0jwfO5gF-olusBTUrLXchKCH-N5LE2XWdIimPU7hxz6r7AnKnsR5Sgx3oLYX_3tZbf2UsN-U8MpLKk4xO4mmWz4hCjmh5-V7buk5Kgifq39-Gsoqd6_RArI15eS78tdOKnhbtypkNZZu9BDEu_MZncHcTk53RJK7OS5qYQLaDsFT_uVwMGJOBdqfkJL6dNehVfL-lj2CMzi4SAwvr3JzP-TgyWU8vLEVsgNjWcaVNFOoJ_AnDxQfntYm1pQcQcmhAkU8JRDZaM5Ou15PvpzbBsECOEWAxl44mE-GnLAx3LVw5Id3leu0vyvldJN19GPm3AIRruCuptIYusKnUYQysWEdq8cXXc7vXA",
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "403-403/1, 407 407/1 Sukhumvit Rd, Khlong Toei Nuea, Watthana, Bangkok 10110, Thailand",
+            "geometry": {
+                "location": {
+                    "lat": 13.736193,
+                    "lng": 100.56194
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 13.73749432989272,
+                        "lng": 100.5632544298927
+                    },
+                    "southwest": {
+                        "lat": 13.73479467010728,
+                        "lng": 100.5605547701073
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Indulge",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2988,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100897021845951645153\">Denis Zanirato</a>"
+                    ],
+                    "photo_reference": "Aap_uEBiKwV-T5lrH8izIFZNgWE63Vs8_M2BYhcvN0xUknVitvdr4EL9mkQs4S3c7GGZMNjfs-T6Vk10-yZqt1vpiaddYfXZB7fkBY0UFehC42NAqVUS8ZalsPsoqk_jaUExEO_Kk_AFWWn0bzRK9YfASntYCfpR_Ne6lCMCupjaIoi7SxtI",
+                    "width": 5312
+                }
+            ],
+            "place_id": "ChIJvcw2HuOe4jARNkjje3ATS18",
+            "plus_code": {
+                "compound_code": "PHP6+FQ Bangkok, Thailand",
+                "global_code": "7P52PHP6+FQ"
+            },
+            "price_level": 3,
+            "rating": 4.5,
+            "reference": "ChIJvcw2HuOe4jARNkjje3ATS18",
+            "types": [
+                "bar",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1189
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "9 Sukhumvit Rd, Khlong Tan, Khlong Toei, Bangkok 10110, Thailand",
+            "geometry": {
+                "location": {
+                    "lat": 13.7283904,
+                    "lng": 100.5693925
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 13.72964232989272,
+                        "lng": 100.5706693798927
+                    },
+                    "southwest": {
+                        "lat": 13.72694267010728,
+                        "lng": 100.5679697201073
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Mondo",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1970,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102085647158804507443\">A Google User</a>"
+                    ],
+                    "photo_reference": "Aap_uEDt_5gOUDkuz6B9GLsouTBAPmFQpUYQiYls9APjE5DcCY4hTWTLhZyV8Fr8462ZzmzbGoXkzl-zv-6Fw62gImOSD6kNtMF5NEmiJ9LQf0AsUkIDnD4se0cKAX1IeoWv86gSedWzqyHjka3Fy2I-6k7kHN2GvH-vznUESHSfM1Ka4dym",
+                    "width": 4110
+                }
+            ],
+            "place_id": "ChIJ9z59h6yf4jAR-H-nJRqcLB4",
+            "plus_code": {
+                "compound_code": "PHH9+9Q Bangkok, Thailand",
+                "global_code": "7P52PHH9+9Q"
+            },
+            "rating": 4.4,
+            "reference": "ChIJ9z59h6yf4jAR-H-nJRqcLB4",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 25
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "27 ถนน สุขุมวิท Khlong Tan Nuea, Watthana, Bangkok 10110, Thailand",
+            "geometry": {
+                "location": {
+                    "lat": 13.7370125,
+                    "lng": 100.5655309
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 13.73828927989272,
+                        "lng": 100.5668651798927
+                    },
+                    "southwest": {
+                        "lat": 13.73558962010728,
+                        "lng": 100.5641655201073
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Enoteca Bangkok",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 2583,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/115841728516945246228\">Enoteca Italiana</a>"
+                    ],
+                    "photo_reference": "Aap_uEBObgVUYrFUCOFLm4Hr9fw0KwGJJkMGQmBr-v5zjLAcgZjWKbzlovl4aYX8k-c0alkweEtSHQjw9Q0bWIIrigq3z_FOdC0kYiF65IDP6NZh8SxChJgi-xgEvJN4TodQHkcvi3OBkUjMcCBX8D3kflLk4L1RwQWgBNZp8qRyxco9kFpq",
+                    "width": 3870
+                }
+            ],
+            "place_id": "ChIJn49lZzqZ4jARx0ILXMTCr1c",
+            "plus_code": {
+                "compound_code": "PHP8+R6 Bangkok, Thailand",
+                "global_code": "7P52PHP8+R6"
+            },
+            "price_level": 3,
+            "rating": 4.5,
+            "reference": "ChIJn49lZzqZ4jARx0ILXMTCr1c",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 308
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "59, 1 Soi Sukhumvit 31, Khlong Toei Nuea, Watthana, Bangkok 10110, Thailand",
+            "geometry": {
+                "location": {
+                    "lat": 13.7401146,
+                    "lng": 100.5662795
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 13.74155097989272,
+                        "lng": 100.5676422798927
+                    },
+                    "southwest": {
+                        "lat": 13.73885132010728,
+                        "lng": 100.5649426201073
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "JP",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1512,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/115454852457828810825\">Thailand Motorcycle Journey</a>"
+                    ],
+                    "photo_reference": "Aap_uEDK_2_oAWJDqj8tkiKNsVVSfK9ljb3es6AqgtHl3OjCxnSthpiW2SXTp6xyQJZazx6aKQrpJtpW5h92T65O7uXRD46-fTGb_XAt-FCnKtonuoV6RkF2B0LZ5T2JAawyYJAQC2l9w_uu7phHedFYVt9YJ1iW_elyuXLpGb01mSY--220",
+                    "width": 2688
+                }
+            ],
+            "place_id": "ChIJZSTKn_ue4jARuHXlkXUFnPg",
+            "plus_code": {
+                "compound_code": "PHR8+2G Bangkok, Thailand",
+                "global_code": "7P52PHR8+2G"
+            },
+            "price_level": 2,
+            "rating": 4.5,
+            "reference": "ChIJZSTKn_ue4jARuHXlkXUFnPg",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 285
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "695 Sukhumvit Rd, Khlong Tan Nuea, Watthana, Bangkok 10110, Thailand",
+            "geometry": {
+                "location": {
+                    "lat": 13.7316611,
+                    "lng": 100.5694278
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 13.73311827989273,
+                        "lng": 100.5705701798927
+                    },
+                    "southwest": {
+                        "lat": 13.73041862010728,
+                        "lng": 100.5678705201073
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "The Chop",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3472,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108952741745001108508\">Kongnutt Worasupphaisarn</a>"
+                    ],
+                    "photo_reference": "Aap_uEAqm83t-D2oBOkuuO2X7gt7ntrnENdHU_oCtg_dd0fb788tyNNGXr50jQdIuYWDxAa5gfkwSBps8Six0D5U9bFqjPmCuLRMpu7AwTI6c2pCPm9cmubLQ1QZuCMh4OyXwARkFxMlQgtsXoAJAd_gxdRmDNEVuThieyYK1K-q9-ceMV7g",
+                    "width": 4624
+                }
+            ],
+            "place_id": "ChIJl2uuigGf4jARtcgYPSTObVg",
+            "plus_code": {
+                "compound_code": "PHJ9+MQ Bangkok, Thailand",
+                "global_code": "7P52PHJ9+MQ"
+            },
+            "rating": 4,
+            "reference": "ChIJl2uuigGf4jARtcgYPSTObVg",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 30
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "139 Soi Sukhumvit 21, Soi 1, sub-district, Watthana, Bangkok 10110, Thailand",
+            "geometry": {
+                "location": {
+                    "lat": 13.7403753,
+                    "lng": 100.5616249
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 13.74176617989272,
+                        "lng": 100.5629806298927
+                    },
+                    "southwest": {
+                        "lat": 13.73906652010728,
+                        "lng": 100.5602809701073
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Big Mama Pizzeria Italian Food Restaurant",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2976,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/105657998046399567813\">Big Mama Pizzeria Italian Restaurant</a>"
+                    ],
+                    "photo_reference": "Aap_uEDTSOYwRlgjStBV648bHmBCoq1cFakUgjWB1n5KoNbE8F9PNNef2f6z6_vV7VDtmE5RcyjlqkNbu8uua7bS51zWq4PLOeGjeGQN14CXQFyV9-pYOchaycDuPDxBH5JWC078Lb77iG2UGFyW4pzkHPNTHy0kTO7RI0pM0pRL9wl2-Xz4",
+                    "width": 3968
+                }
+            ],
+            "place_id": "ChIJi-pmk-Se4jARCDDEZaF5zfw",
+            "plus_code": {
+                "compound_code": "PHR6+5J Bangkok, Thailand",
+                "global_code": "7P52PHR6+5J"
+            },
+            "price_level": 2,
+            "rating": 4.6,
+            "reference": "ChIJi-pmk-Se4jARCDDEZaF5zfw",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2675
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "26 Sukhumvit 29 Alley, Khlong Toei Nuea, Watthana, Bangkok 10110, Thailand",
+            "geometry": {
+                "location": {
+                    "lat": 13.7356916,
+                    "lng": 100.5665493
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 13.73707542989272,
+                        "lng": 100.5679579798927
+                    },
+                    "southwest": {
+                        "lat": 13.73437577010728,
+                        "lng": 100.5652583201073
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Antonio's",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 588,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/109000706473107278320\">Antonio&#39;s The Italian Experience</a>"
+                    ],
+                    "photo_reference": "Aap_uECSD1G2631IfopD6eBvy_vfIyDLPZuvn1tFlTU2LL8uZaA53SInevgQRi5qU5CcrygEVEwvZJl3F2KRrMKs0p7UsTsuSDaoDU91eSBSpctNJKngB37Ur71lw9JDGmPTp9KijwwTJ94PlzFmfJPc8XLsSp2hSrI8juQ-qNesxACbjYoU",
+                    "width": 1024
+                }
+            ],
+            "place_id": "ChIJw6t4qf2e4jARl9mZRgFbfxU",
+            "plus_code": {
+                "compound_code": "PHP8+7J Bangkok, Thailand",
+                "global_code": "7P52PHP8+7J"
+            },
+            "price_level": 3,
+            "rating": 4.7,
+            "reference": "ChIJw6t4qf2e4jARl9mZRgFbfxU",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 353
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "489 Sukhumvit Rd, Khwaeng Khlong Toei Nuea, Watthana, Bangkok 10110, Thailand",
+            "geometry": {
+                "location": {
+                    "lat": 13.7348975,
+                    "lng": 100.564031
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 13.73623712989272,
+                        "lng": 100.5654208798927
+                    },
+                    "southwest": {
+                        "lat": 13.73353747010728,
+                        "lng": 100.5627212201073
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Attico",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 638,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/104417667881329352994\">Sataphat Suphasoet</a>"
+                    ],
+                    "photo_reference": "Aap_uEAPurHV-tTZcjW2GUozfDptjpIAnOAMQd-BrRuhzratfRi4aHZG7ZIBu8hmmDjwRIZw1GBdNd29ZDlVBQhVUcXDo0SaOiO9Ts3GXa6wCpmhA7GbNGlOL-B3eJeBOaIoziYpTFyVP9BuK9M4m4T5bvF7oB1wSK3244bUXLkSpOyR4r22",
+                    "width": 960
+                }
+            ],
+            "place_id": "ChIJA2z0N_2e4jARSCso390UbA8",
+            "plus_code": {
+                "compound_code": "PHM7+XJ Bangkok, Thailand",
+                "global_code": "7P52PHM7+XJ"
+            },
+            "rating": 4.4,
+            "reference": "ChIJA2z0N_2e4jARSCso390UbA8",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 51
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "39 Sukhumvit Rd, Khlong Toei Nuea, Watthana, Bangkok 10110, Thailand",
+            "geometry": {
+                "location": {
+                    "lat": 13.740185,
+                    "lng": 100.5630789
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 13.74157812989272,
+                        "lng": 100.5644380298927
+                    },
+                    "southwest": {
+                        "lat": 13.73887847010728,
+                        "lng": 100.5617383701073
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Rawabina",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2448,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/107182984665771902435\">Marie Harafuji</a>"
+                    ],
+                    "photo_reference": "Aap_uEAGVN9tj_aGxcgQOP_JMO-wrJxIcGMHbFiaJ09BRjKbRzSuVszyj6Kp88rv4ygy2sn3zUb4bgNMovks-viafeDTY_0hlFMrrYQFG8FCO74ZhAq4o0B6jYNuZXdbRbnqcKdjX_L7WMIDVReP-quPgcj8HRuV1nklAvt4eLbxL1Jt1gHq",
+                    "width": 3264
+                }
+            ],
+            "place_id": "ChIJGdaAtOSe4jARzS0PFsXMAzk",
+            "plus_code": {
+                "compound_code": "PHR7+36 Bangkok, Thailand",
+                "global_code": "7P52PHR7+36"
+            },
+            "rating": 4.4,
+            "reference": "ChIJGdaAtOSe4jARzS0PFsXMAzk",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 103
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "สุขุมวิท, 11,13 Soi Sukhumvit 8, Khlong Toei, Bangkok 10110, Thailand",
+            "geometry": {
+                "location": {
+                    "lat": 13.7394639,
+                    "lng": 100.5563167
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 13.74083207989272,
+                        "lng": 100.5575241298927
+                    },
+                    "southwest": {
+                        "lat": 13.73813242010728,
+                        "lng": 100.5548244701073
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Pantaree",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3492,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/117373033125730146697\">Seungjun Kim</a>"
+                    ],
+                    "photo_reference": "Aap_uECd8aRjkM5T8vn57ynVHFHM7jp9jO9xFFwwEi_bEXNlHdPohAjN4hPdAISnu2jKiC0SEbNK8s0W39ppxwGLkAsiNEXaoJx5RzkovQWab1X_1pVA8-VewzAvdZf0OVPVscHqMT5z0BdV2e5BKYvgLxi4iIuKCHatxSXgGaD6Ft82vslK",
+                    "width": 4656
+                }
+            ],
+            "place_id": "ChIJbUl5yuae4jARjQO2iv41p84",
+            "plus_code": {
+                "compound_code": "PHQ4+QG Bangkok, Thailand",
+                "global_code": "7P52PHQ4+QG"
+            },
+            "price_level": 1,
+            "rating": 4.3,
+            "reference": "ChIJbUl5yuae4jARjQO2iv41p84",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 592
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "250 Sukhumvit Rd, Khwaeng Khlong Toei, Khlong Toei, Bangkok 10110, Thailand",
+            "geometry": {
+                "location": {
+                    "lat": 13.73741,
+                    "lng": 100.5590841
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 13.73892397989272,
+                        "lng": 100.5605578298927
+                    },
+                    "southwest": {
+                        "lat": 13.73622432010728,
+                        "lng": 100.5578581701073
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+            "name": "BarSu",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 3695,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/117310871798448087482\">บาร์สุ</a>"
+                    ],
+                    "photo_reference": "Aap_uED_QZxXzele6nFeVDqB3k74XiHnCTdUbwpFwzzKuE-w9tGILK76msgLiLr8KXrm5QfqQreBGMvf9SmML01-aZswWKMiFB2tYd7SmDJ6kwWO3lnIbxcGTx8IWCNnQgO9Rai1BsyuZ6YjlPdVatTill5CdonJXlINsVLIe5VohF4-j8Wh",
+                    "width": 8000
+                }
+            ],
+            "place_id": "ChIJ85ocweOe4jAR9OIkly0l9cc",
+            "plus_code": {
+                "compound_code": "PHP5+XJ Bangkok, Thailand",
+                "global_code": "7P52PHP5+XJ"
+            },
+            "rating": 4.5,
+            "reference": "ChIJ85ocweOe4jAR9OIkly0l9cc",
+            "types": [
+                "night_club",
+                "bar",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 160
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "891 Sukhumvit Rd, Khlong Tan Nuea, Watthana, Bangkok 10110, Thailand",
+            "geometry": {
+                "location": {
+                    "lat": 13.7267752,
+                    "lng": 100.5752837
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 13.72807177989272,
+                        "lng": 100.5765944298927
+                    },
+                    "southwest": {
+                        "lat": 13.72537212010728,
+                        "lng": 100.5738947701073
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Lola's Kitchen Bangkok",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2178,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/107215465949915291841\">A Google User</a>"
+                    ],
+                    "photo_reference": "Aap_uEDefEZWjZD6y0O2YVoXhDP9cGONZbXnRQLCFfpLsh3AXAJXYRxXKlcYRxRrbDvc-RN6cZD3-s5DndtCF2MTcH2r6O072k2qzOc0m4e3BCPwLryh554Z1wsijBD2-Eusc37VDt4IC4NbSFumUmlPM6l0X2PD6BRLJWVzqsgYOAaXQ5Sj",
+                    "width": 3267
+                }
+            ],
+            "place_id": "ChIJn5g_5eyf4jARY6akdGzq2B8",
+            "plus_code": {
+                "compound_code": "PHGG+P4 Bangkok, Thailand",
+                "global_code": "7P52PHGG+P4"
+            },
+            "rating": 4.2,
+            "reference": "ChIJn5g_5eyf4jARY6akdGzq2B8",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 84
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "35th Floor, 413 Sukhumvit Klongtoey Nua Khlong Toei Nuea, Watthana, Bangkok 10110, Thailand",
+            "geometry": {
+                "location": {
+                    "lat": 13.7361215,
+                    "lng": 100.5621583
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 13.73768362989272,
+                        "lng": 100.5638184298927
+                    },
+                    "southwest": {
+                        "lat": 13.73498397010728,
+                        "lng": 100.5611187701073
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Medinii",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 3056,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/111754942671037647622\">A Google User</a>"
+                    ],
+                    "photo_reference": "Aap_uEAiGj_GIjuYZ2clbOY1zx8ZomaXzoBZ2ECkDwYTqK5VpUEBf_6ON_P3GkfjYGhDEodff9nGd_qendIAXYz78Dkt53l5Tqt9eL30KFMHYzG_DvAd68zsQ71LbTf5kyrLbmcmlmI4tBN9IkY5N9r0DhFeNCHfnhF7jnfFqCtaQYbpLVJU",
+                    "width": 5432
+                }
+            ],
+            "place_id": "ChIJZfJeIOOe4jARL2Gd5wTuUBA",
+            "plus_code": {
+                "compound_code": "PHP6+CV Bangkok, Thailand",
+                "global_code": "7P52PHP6+CV"
+            },
+            "price_level": 3,
+            "rating": 4.3,
+            "reference": "ChIJZfJeIOOe4jARL2Gd5wTuUBA",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 348
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "2 อาคาร Taweewan Place, 78 33 Sukhumvit Rd, Khlong Tan Nuea, Watthana, Bangkok 10110, Thailand",
+            "geometry": {
+                "location": {
+                    "lat": 13.7357812,
+                    "lng": 100.5680354
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 13.73713992989272,
+                        "lng": 100.5693085298927
+                    },
+                    "southwest": {
+                        "lat": 13.73444027010728,
+                        "lng": 100.5666088701073
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Gedhawa",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/109979745044308813034\">Montri Aphithanang</a>"
+                    ],
+                    "photo_reference": "Aap_uEDwY6u2dIb_0sQaR_uhFJmoC8g45S-rs6ooTlSrqrtgkt03rrx-aPWRIylZjgh4k7H-XXI_i62ghJVS1A8-2p3d9HWFYiFxwaOrOLXnOJTsErk-3HM_66l4_d-OFTqbzk-a9Z5JeKMNxarfIZak5fhYMUxhoEIu8whY7kx0Se3jECbQ",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJp6ZUbP6e4jARXSBWdOiL1bM",
+            "plus_code": {
+                "compound_code": "PHP9+86 Bangkok, Thailand",
+                "global_code": "7P52PHP9+86"
+            },
+            "price_level": 2,
+            "rating": 4.4,
+            "reference": "ChIJp6ZUbP6e4jARXSBWdOiL1bM",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 547
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "250 Sukhumvit Rd, Khwaeng Khlong Toei, Khlong Toei, Bangkok 10110, Thailand",
+            "geometry": {
+                "location": {
+                    "lat": 13.737277,
+                    "lng": 100.5590826
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 13.73883452989272,
+                        "lng": 100.5605892798927
+                    },
+                    "southwest": {
+                        "lat": 13.73613487010728,
+                        "lng": 100.5578896201073
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Rossini's",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 2610,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/114133192061389931322\">Hideyuki Takahashi</a>"
+                    ],
+                    "photo_reference": "Aap_uEC7eUedS_KL7Jm49220Xg0h4Hgbq3_V9S0D7klCAQm_onKZHa3hCkxeguT0Y55mC5m8XX0qWRhigf5jaV4hee2J7JWo-qaJZ9aaAQh_IewBG8goTq2SYO6Q8NlSj7mFscSCNO3B9tusE_RuYvPTctmUjik2w3AbLbifol0tkHnyLqDA",
+                    "width": 4640
+                }
+            ],
+            "place_id": "ChIJiaqGuOOe4jARPzQBEROt6gs",
+            "plus_code": {
+                "compound_code": "PHP5+WJ Bangkok, Thailand",
+                "global_code": "7P52PHP5+WJ"
+            },
+            "rating": 4.3,
+            "reference": "ChIJiaqGuOOe4jARPzQBEROt6gs",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 128
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "4 Sukhumvit Rd, Khlong Toei, Bangkok 10110, Thailand",
+            "geometry": {
+                "location": {
+                    "lat": 13.7416048,
+                    "lng": 100.5521625
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 13.74330077989272,
+                        "lng": 100.5536573298927
+                    },
+                    "southwest": {
+                        "lat": 13.74060112010728,
+                        "lng": 100.5509576701073
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Nami Teppanyaki Steakhouse",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 594,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/111890777220871016437\">A Google User</a>"
+                    ],
+                    "photo_reference": "Aap_uECBf0rYia78dadj9o5xN-KiKpeWehiLSbqkYcCClrHwcBKY43W7AeKNuJCymZqTrshDE2igNINl4OtfKhwpC7Io4GWFsHgurkdiUJirQYBQpwakjAKa9bZtzH663tKTlvwQm0m1v3COPCHJmmVvbteF5OdsKu9lnEOIbT-C46Od-DwT",
+                    "width": 786
+                }
+            ],
+            "place_id": "ChIJq6rFh92e4jAROCocLoU4pSc",
+            "plus_code": {
+                "compound_code": "PHR2+JV Bangkok, Thailand",
+                "global_code": "7P52PHR2+JV"
+            },
+            "price_level": 4,
+            "rating": 4.5,
+            "reference": "ChIJq6rFh92e4jAROCocLoU4pSc",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 269
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Well Hotel, 10 Sukhumvit 20 Alley, Khlong Toei, Bangkok 10110, Thailand",
+            "geometry": {
+                "location": {
+                    "lat": 13.7329055,
+                    "lng": 100.563794
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 13.73425197989272,
+                        "lng": 100.5652116298927
+                    },
+                    "southwest": {
+                        "lat": 13.73155232010728,
+                        "lng": 100.5625119701073
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "The Twist Bar & Bistro",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2988,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/111648050348355311234\">유지안</a>"
+                    ],
+                    "photo_reference": "Aap_uECXzGQA3C2TIjWCvDIkJyE7rSL8SutK_ZA74TIqXPvfQ_sXerZbZX-sZ2J_iR0rW4a9B31ATOZJZ3RRpVIdCba3MdfRLEkGgr6Fli0MH_p_s9wNESdOHfjqdYJwttpIAK1smxtiw3oP5VImqlZImVNfJmOqkWkCs10xvqTDljcG69xk",
+                    "width": 5312
+                }
+            ],
+            "place_id": "ChIJkdGbqQKf4jAROCuvBHmtW4s",
+            "plus_code": {
+                "compound_code": "PHM7+5G Bangkok, Thailand",
+                "global_code": "7P52PHM7+5G"
+            },
+            "rating": 3.9,
+            "reference": "ChIJkdGbqQKf4jAROCuvBHmtW4s",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 11
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "231, 3 Soi Sukhumvit 31, Khlong Toei Nuea, Watthana, Bangkok 10110, Thailand",
+            "geometry": {
+                "location": {
+                    "lat": 13.7430038,
+                    "lng": 100.5676651
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 13.74442077989272,
+                        "lng": 100.5690309298927
+                    },
+                    "southwest": {
+                        "lat": 13.74172112010728,
+                        "lng": 100.5663312701073
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Haoma Bangkok",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100237814504087572927\">Lauren Qualters</a>"
+                    ],
+                    "photo_reference": "Aap_uECV7ASPWNKUcbxUPYgFel9sMkeiqNgaBom-kkTrO6Pq4AKNzLcTSRtU7hQ8oeLAJI6xszg4ZcQ8sxI8Ce8OsSRfSBRov7mk2rJQSJ86YCh6fI5-hiOMCObaN1BwJd02yyXvakbqmblOtb_sH1ZolxQHfxfb6JpH4IXhZOgSTZKBE_Y",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJ8c3kP_qe4jARjg8dTyubyiA",
+            "plus_code": {
+                "compound_code": "PHV9+63 Bangkok, Thailand",
+                "global_code": "7P52PHV9+63"
+            },
+            "rating": 4.4,
+            "reference": "ChIJ8c3kP_qe4jARjg8dTyubyiA",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 205
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "24, Sawasdee, 1 Soi Sukhumvit 31, Klongton-Nua, Watthana, Bangkok 10110, Thailand",
+            "geometry": {
+                "location": {
+                    "lat": 13.7370275,
+                    "lng": 100.5669498
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 13.73837877989272,
+                        "lng": 100.5682805298927
+                    },
+                    "southwest": {
+                        "lat": 13.73567912010728,
+                        "lng": 100.5655808701073
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Harvest Restaurant",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2311,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110928715670296539800\">Harvest Restaurant</a>"
+                    ],
+                    "photo_reference": "Aap_uEB4Z8kuDYR8oX2sczYKAj7zZEGkffVYrvDwdJ9H1Z5s647LN26eAHP3fDYo66nP3dEcKZlyPesA9hiVLeUEWZN8cBrpiyPkefsMVsWnYHchGMiTS-H2JJTNmEFJFe3x61aza6iG3f__NEIIt2x3DS2q7lcL7fPjom0pNV31kjNA-z1C",
+                    "width": 3462
+                }
+            ],
+            "place_id": "ChIJy1zDZ6qf4jARbUNlgFVNwuQ",
+            "plus_code": {
+                "compound_code": "PHP8+RQ Bangkok, Thailand",
+                "global_code": "7P52PHP8+RQ"
+            },
+            "price_level": 3,
+            "rating": 4.4,
+            "reference": "ChIJy1zDZ6qf4jARbUNlgFVNwuQ",
+            "types": [
+                "night_club",
+                "bar",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 252
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "250 Sukhumvit Rd, Khwaeng Khlong Toei, Khlong Toei, Bangkok 10110, Thailand",
+            "geometry": {
+                "location": {
+                    "lat": 13.7373115,
+                    "lng": 100.5590489
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 13.73886562989272,
+                        "lng": 100.5605529798927
+                    },
+                    "southwest": {
+                        "lat": 13.73616597010728,
+                        "lng": 100.5578533201073
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Dine in the Dark",
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/109018679551321168463\">Parnnathon Netwong</a>"
+                    ],
+                    "photo_reference": "Aap_uECiZqN-RDdZjUg21eWtBgcoAx04O_2IJmxSRIL0ngaZoetrR3VHmO1H-fi8ndvwlgP7iy8yxhWLavVR3DAhdb9Z_jSLeJn3lHHh2DvUhsWybnPyS9oDm-SRacSe3FBp7jNI5U5bIVUfh5tqMJxs-ihylcmZaJFmq0p4wI8gV_WhTm3y",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJPZ15C8aY4jARvswDhr5vsE0",
+            "plus_code": {
+                "compound_code": "PHP5+WJ Bangkok, Thailand",
+                "global_code": "7P52PHP5+WJ"
+            },
+            "rating": 4.6,
+            "reference": "ChIJPZ15C8aY4jARvswDhr5vsE0",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 137
+        }
+    ],
+    "status": "OK"
+}
